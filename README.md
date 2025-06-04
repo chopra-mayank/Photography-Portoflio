@@ -65,15 +65,15 @@ To deploy your own version:
 ## 🧰 How to Use Locally
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/chopra-mayank/Photography-Portoflio.git
 ````
 
 2. Navigate to the project folder:
 
-   ```bash
+```bash
    cd Photography-Portoflio
-   ```
+```
 
 3. Open `index.html` in your browser:
 
@@ -97,7 +97,4 @@ Feel free to reach out for collaborations, feedback, or queries.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
-✅ Paste this directly as your `README.md` content on your GitHub repo page. Let me know if you want badges, a screenshot preview, or a license file added too!
 ```
