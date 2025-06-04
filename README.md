@@ -66,13 +66,13 @@ To deploy your own version:
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/chopra-mayank/Photography-Portoflio.git
+git clone https://github.com/chopra-mayank/Photography-Portoflio.git
 ````
 
 2. Navigate to the project folder:
 
 ```bash
-   cd Photography-Portoflio
+cd Photography-Portoflio
 ```
 
 3. Open `index.html` in your browser:
@@ -96,5 +96,3 @@ Feel free to reach out for collaborations, feedback, or queries.
 ## 📃 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-```
