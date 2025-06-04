@@ -37,8 +37,8 @@ Photography-Portoflio/
 ├── assets/              # Images used in the background, about section, etc.
 │   ├── background.jpg
 │   └── about.jpg
-│   └── index.css            # Styling and layout
-│   └── script.js            # Basic interactivity
+│   └── index.css        # Styling and layout
+│   └── script.js        # Basic interactivity
 ├── index.html           # Main structure of the webpage
 
 ````
