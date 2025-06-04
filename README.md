@@ -1,6 +1,3 @@
-Here is the complete code for your `README.md` file that you can directly **copy-paste into your GitHub repository**:
-
-```markdown
 # 📸 Personal Photography Portfolio
 
 Welcome to my **Personal Photography Portfolio** — a responsive and elegant web page designed to showcase photography work.
@@ -40,9 +37,9 @@ Photography-Portoflio/
 ├── assets/              # Images used in the background, about section, etc.
 │   ├── background.jpg
 │   └── about.jpg
+│   └── index.css            # Styling and layout
+│   └── script.js            # Basic interactivity
 ├── index.html           # Main structure of the webpage
-├── index.css            # Styling and layout
-└── script.js            # Basic interactivity
 
 ````
 
